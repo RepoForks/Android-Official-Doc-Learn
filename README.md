@@ -1,5 +1,4 @@
-
-# Android Learn
+# Android Official Docs Learn
 
 ``Android``开发的一些代码示例，来自官方文档的实现。测试环境：``Android Studio 2.0``，``API 23``及更高
 

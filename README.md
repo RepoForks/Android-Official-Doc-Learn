@@ -1,6 +1,9 @@
+
 # Android Official Docs Learn
 
-``Android``开发的一些代码示例，来自官方文档的实现。测试环境：``Android Studio 2.0``，``API 23``及更高
+``Android``开发的一些代码示例，来自[官方Training文档](https://developer.android.com/training/index.html)的实现以及一些探索性实验。
+
+测试环境：``Android Studio 2.1``，``API 14-23``
 
 ### Demo List
  1. [My First App](https://github.com/sennhviwang/Android-Learn-Journey#my-first-app)
@@ -10,6 +13,7 @@
  - [An Interactive Intent Demo](https://github.com/sennhviwang/Android-Learn-Journey#an-interactive-intent-demo)
  - [A Permission Demo](https://github.com/sennhviwang/Android-Learn-Journey#a-permission-demo)
  - [A Content Sharing Demo](https://github.com/sennhviwang/Android-Learn-Journey#a-content-sharing-demo)
+ - [ Animation List Demo](https://github.com/sennhviwang/Android-Learn-Journey#animation-list-demo)
  
 
 ###### [My First App](https://github.com/sennhviwang/Android-Learn-Journey/tree/master/MyFirstApp)
@@ -52,3 +56,14 @@
  - 内容分享示例，在读写存储空间时有必要在运行时声明和请求系统权限，功能包括输入和分享文本，设置压缩图片结果并支持分享，通过调用浏览器查询``IP``地址位置，学习更多关于``Intent``内容如``intent-filter``,``action``,``category``,``data:scheme``,``mimeType``等，同时也是使用``Android Studio``分渠道打包示例
  - ``Key Words``: uses-permission, checkSelfPermission, shouldShowRequestPermissionRationale, RequestPermissions, onRequestPermissionsResult, getPickImageIntent, getImageResized, decodeBitmap, getRotationFromGallery, getRotationFromCamera, startActivityForResult, requestCode, resultCode, onBackPressed, setData, putExtra, addCategory, finish
  - [Apps with Content Sharing](https://developer.android.com/training/building-content-sharing.html)
+
+
+##### [Animation List Demo](https://github.com/sennhviwang/Android-Learn-Journey/tree/master/AnimationListDemo)
+ - 帧动画示例,顺序,倒序,停止动画demo
+ - ``Key Words``: AnimationDrawable, getDrawable, setImageResource, animation-list, android:oneshot
+ - [Animation List-CSDN](http://blog.csdn.net/aminfo/article/details/7847761)
+
+
+---
+
+###### License: MIT license (MIT)

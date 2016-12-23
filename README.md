@@ -13,7 +13,8 @@
  - [An Interactive Intent Demo](https://github.com/sennhviwang/Android-Learn-Journey#an-interactive-intent-demo)
  - [A Permission Demo](https://github.com/sennhviwang/Android-Learn-Journey#a-permission-demo)
  - [A Content Sharing Demo](https://github.com/sennhviwang/Android-Learn-Journey#a-content-sharing-demo)
- - [ Animation List Demo](https://github.com/sennhviwang/Android-Learn-Journey#animation-list-demo)
+ - [Animation List Demo](https://github.com/sennhviwang/Android-Learn-Journey#animation-list-demo)
+ - [Android Nanohttpd Super Big File Upload Server](https://github.com/sennhviwang/Android-Learn-Journey#android-nanohttpd-super-big-file-upload-server)
  
 
 ###### [My First App](https://github.com/sennhviwang/Android-Learn-Journey/tree/master/MyFirstApp)
@@ -62,6 +63,11 @@
  - 帧动画示例,顺序,倒序,停止动画demo
  - ``Key Words``: AnimationDrawable, getDrawable, setImageResource, animation-list, android:oneshot
  - [Animation List-CSDN](http://blog.csdn.net/aminfo/article/details/7847761)
+
+##### [[Android Nanohttpd Super Big File Upload Server](https://github.com/sennhviwang/Android-Learn-Journey/tree/master/AndroidNanohttpdSuperBigFileUploadServer)
+ - 支持局域网超大文件上传的Nanohttpd,可置于android,需模拟multipart/form-data上传文件,应用部分太多,不列举.
+ - ``Key Words``: Nanohttpd, upload, json, wifimanager...
+ - [Nanohttpd](https://github.com/NanoHttpd/nanohttpd)
 
 
 ---

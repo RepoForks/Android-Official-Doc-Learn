@@ -15,6 +15,8 @@
  - [A Content Sharing Demo](https://github.com/sennhviwang/Android-Learn-Journey#a-content-sharing-demo)
  - [Animation List Demo](https://github.com/sennhviwang/Android-Learn-Journey#animation-list-demo)
  - [Android Nanohttpd Super Big File Upload Server](https://github.com/sennhviwang/Android-Learn-Journey#android-nanohttpd-super-big-file-upload-server)
+ - [Animation Test Demo](https://github.com/sennhviwang/Android-Learn-Journey#animation-test-demo)
+ - [PopupWindow Demo](https://github.com/sennhviwang/Android-Learn-Journey#popupwindow-demo)
  
 
 ###### [My First App](https://github.com/sennhviwang/Android-Learn-Journey/tree/master/MyFirstApp)
@@ -64,11 +66,23 @@
  - ``Key Words``: AnimationDrawable, getDrawable, setImageResource, animation-list, android:oneshot
  - [Animation List-CSDN](http://blog.csdn.net/aminfo/article/details/7847761)
 
-##### [[Android Nanohttpd Super Big File Upload Server](https://github.com/sennhviwang/Android-Learn-Journey/tree/master/AndroidNanohttpdSuperBigFileUploadServer)
+##### [Android Nanohttpd Super Big File Upload Server](https://github.com/sennhviwang/Android-Learn-Journey/tree/master/AndroidNanohttpdSuperBigFileUploadServer)
  - 支持局域网超大文件上传的Nanohttpd,可置于android,需模拟multipart/form-data上传文件,应用部分太多,不列举.
  - ``Key Words``: Nanohttpd, upload, json, wifimanager...
  - [Nanohttpd](https://github.com/NanoHttpd/nanohttpd)
 
+##### [Animation Test Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn/tree/master/AnimationTest)
+ - TranslateAnimation动画Demo,点击按钮实现图像位置的变换
+ - ``Key Words``: TranslateAnimation, setInterpolator, setDuration, setFillAfter, startAnimation
+ - [TranslateAnimation](https://developer.android.com/reference/android/view/animation/TranslateAnimation.html)
+
+##### [PopupWindow Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn/tree/master/PopupWindowDemo)
+ - 长按跑马灯Textview弹出PopupWindow气泡支持文本复制(默认API > 11,因此不作版本代码控制),实现横竖屏切换后销毁PopupWindow且跑马灯捕获焦点继续滚动,首次点击返回键(onKeyDown, onBackPressed, onTouch并不能捕获)后销毁PopupWindow
+ - ``Key Words``: PopupWindow, setSelected(true), setTouchable(true), setFocusable(true), setOutsideTouchable(true), setBackgroundDrawable(new ColorDrawable(0x00000000)), showAsDropDown, onConfigurationChanged, onLongClick, onTouch
+ - [StackOverflow popupWindow Dismiss](http://stackoverflow.com/questions/3121232/android-popup-window-dismissal/3122696#3122696)
+ - [Android事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b)
+ - [点击事件返回值](http://blog.csdn.net/iplayvs2008/article/details/11767427)
+ - [onLongClickListener事件处理](http://blog.csdn.net/xiashaohua/article/details/50717856)
 
 ---
 

@@ -6,17 +6,17 @@
 测试环境：``Android Studio 2.1``，``API 14-23``
 
 ### Demo List
- 1. [My First App](https://github.com/sennhviwang/Android-Learn-Journey#my-first-app)
- - [Android LifeCycle Demo](https://github.com/sennhviwang/Android-Learn-Journey#android-lifecycle-demo)
- - [Fragment Basic Learn](https://github.com/sennhviwang/Android-Learn-Journey#fragment-basic-learn)
- - [SQLite OpenHelper Demo(High)](https://github.com/sennhviwang/Android-Learn-Journey#sqlite-openhelper-demo)
- - [An Interactive Intent Demo](https://github.com/sennhviwang/Android-Learn-Journey#an-interactive-intent-demo)
- - [A Permission Demo](https://github.com/sennhviwang/Android-Learn-Journey#a-permission-demo)
- - [A Content Sharing Demo](https://github.com/sennhviwang/Android-Learn-Journey#a-content-sharing-demo)
- - [Animation List Demo](https://github.com/sennhviwang/Android-Learn-Journey#animation-list-demo)
- - [Android Nanohttpd Super Big File Upload Server](https://github.com/sennhviwang/Android-Learn-Journey#android-nanohttpd-super-big-file-upload-server)
- - [Animation Test Demo](https://github.com/sennhviwang/Android-Learn-Journey#animation-test-demo)
- - [PopupWindow Demo](https://github.com/sennhviwang/Android-Learn-Journey#popupwindow-demo)
+ 1. [My First App](https://github.com/sennhviwang/Android-Official-Doc-Learn#my-first-app)
+ - [Android LifeCycle Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#android-lifecycle-demo)
+ - [Fragment Basic Learn](https://github.com/sennhviwang/Android-Official-Doc-Learn#fragment-basic-learn)
+ - [SQLite OpenHelper Demo(High)](https://github.com/sennhviwang/Android-Official-Doc-Learn#sqlite-openhelper-demo)
+ - [An Interactive Intent Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#an-interactive-intent-demo)
+ - [A Permission Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#a-permission-demo)
+ - [A Content Sharing Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#a-content-sharing-demo)
+ - [Animation List Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#animation-list-demo)
+ - [Android Nanohttpd Super Big File Upload Server](https://github.com/sennhviwang/Android-Official-Doc-Learn#android-nanohttpd-super-big-file-upload-server)
+ - [Animation Test Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#animation-test-demo)
+ - [PopupWindow Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#popupwindow-demo)
  
 
 ###### [My First App](https://github.com/sennhviwang/Android-Learn-Journey/tree/master/MyFirstApp)

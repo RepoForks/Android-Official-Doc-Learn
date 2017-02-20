@@ -88,7 +88,7 @@
 ##### [Zxing Scanner](https://github.com/sennhviwang/Android-Official-Doc-Learn/tree/master/ZxingScanner)
  - 根据官方文档使用二维码扫码库zxing构建QRCode Scanner应用，根据调研学习深度，进行多次迭代简化
     - 0.[首次提交](https://github.com/sennhviwang/Android-Official-Doc-Learn/commit/6a9b82cd053860d6d3a6b04a100a4b3e6d71ce47)
-    - 1.竖屏支持
+    - 1.[竖屏支持](https://github.com/sennhviwang/Android-Official-Doc-Learn/commit/0e91e4540ad8f5f00ff8ae072e238e925dcef9b0)
     - 2.TBD
  - ``Key Words``: zxing
  - 如何快速Build:

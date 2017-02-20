@@ -96,7 +96,8 @@
     - 1.将``android``目录导入android studio(eclipse-->android studio项目转换)
     - 2.在build.gradle文件加上依赖库``compile 'com.google.zxing:core:3.3.0'``，**或者**，从官网wiki页进入``Just Need a Jar``选择需要的版本(如3.3.0)和类型(如只包含源码、包含文档bleh)，放入``lib``文件夹并``Add as library``
     - 3.如果你的项目编译不通过，而缺少``CameraConfigurationUtils``类的话，在``android-core``里，把它复制过来放在包``com.google.zxing.client.android.camera``下面。
-    - 4.大象装进了冰箱 
+    - 4.如果你的项目因为一些不必要的ResultHandler方法不存在，请注释掉方法调用和该类，如ISBN之类的，因为你可能并不需要全家桶
+    - 5.大象装进了冰箱 
  - [Zxing github](https://github.com/zxing/zxing)
  - [zxing official wikis](https://github.com/zxing/zxing/wiki/Getting-Started-Developing)
 

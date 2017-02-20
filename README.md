@@ -6,17 +6,18 @@
 测试环境：``Android Studio 2.1``，``API 14-23``
 
 ### Demo List
- 1. [My First App](https://github.com/sennhviwang/Android-Learn-Journey#my-first-app)
- - [Android LifeCycle Demo](https://github.com/sennhviwang/Android-Learn-Journey#android-lifecycle-demo)
- - [Fragment Basic Learn](https://github.com/sennhviwang/Android-Learn-Journey#fragment-basic-learn)
- - [SQLite OpenHelper Demo(High)](https://github.com/sennhviwang/Android-Learn-Journey#sqlite-openhelper-demo)
- - [An Interactive Intent Demo](https://github.com/sennhviwang/Android-Learn-Journey#an-interactive-intent-demo)
- - [A Permission Demo](https://github.com/sennhviwang/Android-Learn-Journey#a-permission-demo)
- - [A Content Sharing Demo](https://github.com/sennhviwang/Android-Learn-Journey#a-content-sharing-demo)
- - [Animation List Demo](https://github.com/sennhviwang/Android-Learn-Journey#animation-list-demo)
- - [Android Nanohttpd Super Big File Upload Server](https://github.com/sennhviwang/Android-Learn-Journey#android-nanohttpd-super-big-file-upload-server)
- - [Animation Test Demo](https://github.com/sennhviwang/Android-Learn-Journey#animation-test-demo)
- - [PopupWindow Demo](https://github.com/sennhviwang/Android-Learn-Journey#popupwindow-demo)
+ 1. [My First App](https://github.com/sennhviwang/Android-Official-Doc-Learn#my-first-app)
+ - [Android LifeCycle Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#android-lifecycle-demo)
+ - [Fragment Basic Learn](https://github.com/sennhviwang/Android-Official-Doc-Learn#fragment-basic-learn)
+ - [SQLite OpenHelper Demo(High)](https://github.com/sennhviwang/Android-Official-Doc-Learn#sqlite-openhelper-demo)
+ - [An Interactive Intent Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#an-interactive-intent-demo)
+ - [A Permission Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#a-permission-demo)
+ - [A Content Sharing Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#a-content-sharing-demo)
+ - [Animation List Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#animation-list-demo)
+ - [Android Nanohttpd Super Big File Upload Server](https://github.com/sennhviwang/Android-Official-Doc-Learn#android-nanohttpd-super-big-file-upload-server)
+ - [Animation Test Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#animation-test-demo)
+ - [PopupWindow Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#popupwindow-demo)
+ - [Zxing Scanner](https://github.com/sennhviwang/Android-Official-Doc-Learn#zxing-scanner)
  
 
 ###### [My First App](https://github.com/sennhviwang/Android-Learn-Journey/tree/master/MyFirstApp)
@@ -84,6 +85,20 @@
  - [点击事件返回值](http://blog.csdn.net/iplayvs2008/article/details/11767427)
  - [onLongClickListener事件处理](http://blog.csdn.net/xiashaohua/article/details/50717856)
 
+##### [Zxing Scanner](https://github.com/sennhviwang/Android-Official-Doc-Learn/tree/master/ZxingScanner)
+ - 根据官方文档使用二维码扫码库zxing构建QRCode Scanner应用，根据调研学习深度，进行多次迭代简化
+    - 0.首次提交
+    - 1.竖屏支持
+    - 2.TBD
+ - ``Key Words``: zxing
+ - 如何快速Build:
+    - 0.从github上clone下整个zxing项目
+    - 1.将``android``目录导入android studio(eclipse-->android studio项目转换)
+    - 2.在build.gradle文件加上依赖库``compile 'com.google.zxing:core:3.3.0'``，**或者**，从官网wiki页进入``Just Need a Jar``选择需要的版本(如3.3.0)和类型(如只包含源码、包含文档bleh)，放入``lib``文件夹并``Add as library``
+    - 3.如果你的项目编译不通过，而缺少``CameraConfigurationUtils``类的话，在``android-core``里，把它复制过来放在包``com.google.zxing.client.android.camera``下面。
+    - 4.大象装进了冰箱 
+ - [Zxing github](https://github.com/zxing/zxing)
+ - [zxing official wikis](https://github.com/zxing/zxing/wiki/Getting-Started-Developing)
 ---
 
 ###### License: MIT license (MIT)

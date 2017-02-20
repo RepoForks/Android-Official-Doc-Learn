@@ -1,7 +1,0 @@
-#Mon Feb 20 13:06:09 CST 2017
-base.0=/home/wangsenhui/WorkOn/Android-Official-Doc-Learn/Zxing_Scanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_91e754c3f0dd16db97d7fa4a023d2c2150758316
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/wangsenhui/WorkOn/Android-Official-Doc-Learn/Zxing_Scanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d2183377ba8e37db48d0986995e09e8869ad33f7/classes.dex
-base.1=/home/wangsenhui/WorkOn/Android-Official-Doc-Learn/Zxing_Scanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d2183377ba8e37db48d0986995e09e8869ad33f7
-file.0=/home/wangsenhui/WorkOn/Android-Official-Doc-Learn/Zxing_Scanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_91e754c3f0dd16db97d7fa4a023d2c2150758316/classes.dex

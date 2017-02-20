@@ -17,7 +17,10 @@
  - [Android Nanohttpd Super Big File Upload Server](https://github.com/sennhviwang/Android-Official-Doc-Learn#android-nanohttpd-super-big-file-upload-server)
  - [Animation Test Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#animation-test-demo)
  - [PopupWindow Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#popupwindow-demo)
+<<<<<<< HEAD
  - [Zxing Scanner](https://github.com/sennhviwang/Android-Official-Doc-Learn#zxing-scanner)
+=======
+>>>>>>> d0fe1725699d452754c727ba29eb0fe98475d9c2
  
 
 ###### [My First App](https://github.com/sennhviwang/Android-Learn-Journey/tree/master/MyFirstApp)

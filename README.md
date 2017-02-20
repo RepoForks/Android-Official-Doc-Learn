@@ -17,10 +17,7 @@
  - [Android Nanohttpd Super Big File Upload Server](https://github.com/sennhviwang/Android-Official-Doc-Learn#android-nanohttpd-super-big-file-upload-server)
  - [Animation Test Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#animation-test-demo)
  - [PopupWindow Demo](https://github.com/sennhviwang/Android-Official-Doc-Learn#popupwindow-demo)
-<<<<<<< HEAD
  - [Zxing Scanner](https://github.com/sennhviwang/Android-Official-Doc-Learn#zxing-scanner)
-=======
->>>>>>> d0fe1725699d452754c727ba29eb0fe98475d9c2
  
 
 ###### [My First App](https://github.com/sennhviwang/Android-Learn-Journey/tree/master/MyFirstApp)
@@ -90,7 +87,7 @@
 
 ##### [Zxing Scanner](https://github.com/sennhviwang/Android-Official-Doc-Learn/tree/master/ZxingScanner)
  - 根据官方文档使用二维码扫码库zxing构建QRCode Scanner应用，根据调研学习深度，进行多次迭代简化
-    - 0.首次提交
+    - 0.[首次提交](https://github.com/sennhviwang/Android-Official-Doc-Learn/commit/6a9b82cd053860d6d3a6b04a100a4b3e6d71ce47)
     - 1.竖屏支持
     - 2.TBD
  - ``Key Words``: zxing
@@ -102,6 +99,8 @@
     - 4.大象装进了冰箱 
  - [Zxing github](https://github.com/zxing/zxing)
  - [zxing official wikis](https://github.com/zxing/zxing/wiki/Getting-Started-Developing)
+
+
 ---
 
 ###### License: MIT license (MIT)

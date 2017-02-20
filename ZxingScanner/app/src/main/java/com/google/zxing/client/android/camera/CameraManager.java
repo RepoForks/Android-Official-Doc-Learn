@@ -276,7 +276,7 @@ public final class CameraManager {
             rect.right = rect.right * cameraResolution.y / screenResolution.x;
             rect.top = rect.top * cameraResolution.x / screenResolution.y;
             rect.bottom = rect.bottom * cameraResolution.x / screenResolution.y;
-            Log.w(TAG,  "left:" + rect.left + " right:" + rect.right + " top:" +  rect.top + " bottom:" + rect.bottom);
+            Log.w(TAG, "left:" + rect.left + " right:" + rect.right + " top:" + rect.top + " bottom:" + rect.bottom);
             framingRectInPreview = rect;
         }
         return framingRectInPreview;
@@ -324,11 +324,11 @@ public final class CameraManager {
      * A factory method to build the appropriate LuminanceSource object based on the format
      * of the preview buffers, as described by Camera.Parameters.
      *
-     * @param data A preview frame.
-     * @param width The width of the image.
+     * @param data   A preview frame.
+     * @param width  The width of the image.
      * @param height The height of the image.
-   * @return A PlanarYUVLuminanceSource instance.
-   */
+     * @return A PlanarYUVLuminanceSource instance.
+     */
     public PlanarYUVLuminanceSource buildLuminanceSource(byte[] data, int width, int height) {
         byte[] rotateData = new byte[data.length];
         for (int y = 0; y < height; y++) {
